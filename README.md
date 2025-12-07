@@ -71,7 +71,8 @@ You can directly download the processed BUSI, GlaS, and CVC datasets and place t
 | **NAS-UKAN (--no-kan)** | **64.35±1.86** | **77.22±1.92** | **89.72±0.64** | **94.50±0.32** | **87.06±0.52** | **96.01±0.15** |
 | **NAS-UKAN (Ours)** ⭐  | **67.01±1.42** | **79.10±1.52** | **90.13±0.22** | **94.84±0.12** | **87.27±0.74** | **93.20±0.49** |
 
-The two highlighted rows correspond to our proposed models:** **NAS-UKAN (--no-kan)**, which removes KAN layers, and the full **NAS-UKAN**, which integrates the spline-based U-KAN backbone.
+The two highlighted rows correspond to our proposed models:** NAS-UKAN (--no-kan), which removes KAN layers, and the full NAS-UKAN, which integrates the spline-based U-KAN backbone.
+
 ---
 
 ## 🚀 Usage
