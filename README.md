@@ -14,7 +14,7 @@ NAS-UKAN achieves state-of-the-art segmentation results across BUSI, GlaS, and C
 
 ## 📷 NAS-UKAN Architecture
 
-> `![NAS-UKAN Architecture](architecture.png)`  
+![NAS-UKAN Architecture](architecture.png)
 >  
 > *Figure: Overall architecture integrating U-KAN backbone with sampling-based NAS.*
 
